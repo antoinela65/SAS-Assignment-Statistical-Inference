@@ -73,7 +73,7 @@ The dataset `Devoir1.sas7bdat` contains data from 80 participants and includes t
 
 ## 📈 **Deliverables**
 
-The project deliverable includes a concise PDF report (maximum 10 pages) summarizing:
+The project deliverable includes a PDF report summarizing:
 1. Key descriptive statistics and hypothesis testing results.
 2. Regression model findings and interpretations.
 3. Visual diagnostics supporting model validity.
